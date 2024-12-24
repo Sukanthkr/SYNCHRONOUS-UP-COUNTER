@@ -52,6 +52,8 @@ RegisterNumber:24000723
 ![Screenshot 2024-12-07 114059](https://github.com/user-attachments/assets/cf41d7a7-1f17-4d46-80a2-7df3b16eed11)
 
 **TRUTH TABLE**
+
+
 ![Screenshot 2024-12-07 115644](https://github.com/user-attachments/assets/0462bce8-80f3-4037-b324-9050cee0fce1)
 
 **RESULTS**
